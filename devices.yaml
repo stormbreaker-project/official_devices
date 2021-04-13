@@ -25,3 +25,12 @@ X00P:
     - version_code: "1.0"
       stable: true
   img: https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png
+ysl:
+  maintainer: ItsVixano
+  name: S2/Y2
+  brand: Redmi
+  codename: ysl
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://i.imgur.com/E85Q8AD.png
