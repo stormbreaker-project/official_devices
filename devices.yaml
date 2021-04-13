@@ -34,3 +34,12 @@ ysl:
     - version_code: "1.0"
       stable: true
   img: https://i.imgur.com/E85Q8AD.png
+X01AD:
+  maintainer: danascape
+  name: Max M2
+  brand: Asus
+  codename: X01AD
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
