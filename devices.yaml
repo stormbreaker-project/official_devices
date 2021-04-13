@@ -1,0 +1,18 @@
+billie:
+  maintainer: Billaids
+  name: Nord N10 5G
+  brand: OnePlus
+  codename: billie
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://i.imgur.com/u1E9AEK.png
+avicii:
+  maintainer: KakatkarAkshay
+  name: Nord
+  brand: OnePlus
+  codename: avicii
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://i.imgur.com/K3bmolu.jpg
