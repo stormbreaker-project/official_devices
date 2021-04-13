@@ -25,15 +25,6 @@ X00P:
     - version_code: "1.0"
       stable: true
   img: https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png
-ysl:
-  maintainer: ItsVixano
-  name: S2/Y2
-  brand: Redmi
-  codename: ysl
-  supported_versions:
-    - version_code: "1.0"
-      stable: true
-  img: https://i.imgur.com/E85Q8AD.png
 X01AD:
   maintainer: danascape
   name: Max M2
@@ -43,7 +34,16 @@ X01AD:
     - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
-  whyred:
+ysl:
+  maintainer: ItsVixano
+  name: Redmi S2/Y2
+  brand: Xiaomi
+  codename: ysl
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://i.imgur.com/E85Q8AD.png
+whyred:
   maintainer: Sreekanth
   name: Redmi Note 5/Pro
   brand: Xiaomi
@@ -52,7 +52,7 @@ X01AD:
     - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-5-pro-1.jpg
-  phoenix:
+phoenix:
   maintainer: Sreekanth
   name: Poco X2/Redmi K30
   brand: Poco
