@@ -16,3 +16,12 @@ avicii:
     - version_code: "1.0"
       stable: true
   img: https://i.imgur.com/K3bmolu.jpg
+X00P:
+  maintainer: danascape
+  name: Max M1
+  brand: Asus
+  codename: X00P
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png
