@@ -43,3 +43,21 @@ X01AD:
     - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
+  whyred:
+  maintainer: Sreekanth
+  name: Redmi Note 5/Pro
+  brand: Xiaomi
+  codename: whyred
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-5-pro-1.jpg
+  phoenix:
+  maintainer: Sreekanth
+  name: Poco X2/Redmi K30
+  brand: Poco
+  codename: phoenix
+  supported_versions:
+    - version_code: "1.0"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x2-1.jpg
