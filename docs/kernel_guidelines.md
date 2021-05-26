@@ -16,7 +16,7 @@ Exceptions **SHOULD** be made by contacting the administration team.
 - Is recommended regenerating the defconfig after you enable/disable a module/configs.
 
 - Try to keep a consistency between commits.
-- Try to cleanup your kernel source from useless/blacebo commits.
+- Try to cleanup your kernel source from useless/placebo commits.
 - Try to maintain compability with most of firmwares available for your device.
 
 - All the builds must be properly tested before releasing.
