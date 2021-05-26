@@ -106,3 +106,12 @@ CPH1859:
     - version_code: "1"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/oppo/oppo-realme-1-1.jpg
+citrus:
+  maintainer: starlight5234
+  name: Poco M3
+  brand: Poco
+  codename: citrus
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://i.imgur.com/DKCUqFP.jpg
