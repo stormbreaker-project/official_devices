@@ -124,3 +124,21 @@ sweet:
     - version_code: "1"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg
+cheeseburger:
+  maintainer: deezznutzs
+  name: OnePlus 5
+  brand: OnePlus
+  codename: cheeseburger
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg
+dumpling:
+  maintainer: deezznutzs
+  name: OnePlus 5T
+  brand: OnePlus
+  codename: dumpling
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5t-1.jpg
