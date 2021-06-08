@@ -142,3 +142,12 @@ dumpling:
     - version_code: "1"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5t-1.jpg
+ r5x:
+  maintainer: iamlordutkarsh
+  name: Realme 5 Series
+  brand: realme
+  codename: r5x
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg
