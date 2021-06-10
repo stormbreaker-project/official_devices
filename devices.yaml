@@ -151,3 +151,12 @@ dumpling:
     - version_code: "1"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg
+surya:
+  maintainer: Forenche
+  name: Poco X3 (NFC)
+  brand: Pocophone
+  codename: Surya
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png
