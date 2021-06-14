@@ -4,7 +4,7 @@ avicii:
   brand: OnePlus
   codename: avicii
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://i.imgur.com/K3bmolu.jpg
 billie:
@@ -13,8 +13,8 @@ billie:
   brand: OnePlus
   codename: billie
   supported_versions:
-    - version_code: "1"
-      stable: true
+    - version_code: "1.0"
+      stable: false
   img: https://i.imgur.com/u1E9AEK.png
 cheeseburger:
   maintainer: deezznutzs
@@ -22,8 +22,8 @@ cheeseburger:
   brand: OnePlus
   codename: cheeseburger
   supported_versions:
-    - version_code: "1"
-      stable: true
+    - version_code: "1.0"
+      stable: false
   img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg
 citrus:
   maintainer: starlight5234
@@ -31,7 +31,7 @@ citrus:
   brand: Poco
   codename: citrus
   supported_versions:
-    - version_code: "1"
+    - version_code: "2.0"
       stable: true
   img: https://i.imgur.com/DKCUqFP.jpg
 CPH1859:
@@ -40,7 +40,7 @@ CPH1859:
   brand: realme
   codename: CPH1859
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/oppo/oppo-realme-1-1.jpg
 dumpling:
@@ -49,8 +49,8 @@ dumpling:
   brand: OnePlus
   codename: dumpling
   supported_versions:
-    - version_code: "1"
-      stable: true
+    - version_code: "1.0"
+      stable: false
   img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5t-1.jpg
 ginkgo:
   maintainer: danascape
@@ -67,7 +67,7 @@ lancelot:
   brand: Redmi
   codename: lancelot
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://www.gizmochina.com/wp-content/uploads/2020/08/Xiaomi-Redmi-9-Prime-500x500.jpg
 lavender:
@@ -76,7 +76,7 @@ lavender:
   brand: Redmi
   codename: lavender
   supported_versions:
-    - version_code: "1"
+    - version_code: "9.7"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
 lavender:
@@ -85,7 +85,7 @@ lavender:
   brand: Redmi
   codename: lavender
   supported_versions:
-    - version_code: "1"
+    - version_code: "9.7"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
 lavender:
@@ -94,7 +94,7 @@ lavender:
   brand: Redmi
   codename: lavender
   supported_versions:
-    - version_code: "1"
+    - version_code: "9.7"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
 phoenix:
@@ -103,7 +103,7 @@ phoenix:
   brand: Poco
   codename: phoenix
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x2-1.jpg
 r5x:
@@ -112,7 +112,7 @@ r5x:
   brand: realme
   codename: r5x
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/realme/realme-5-rmx1911-2.jpg
 surya:
@@ -121,7 +121,7 @@ surya:
   brand: Pocophone
   codename: Surya
   supported_versions:
-    - version_code: "1"
+    - version_code: "4.0"
       stable: true
   img: https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png
 sweet:
@@ -130,7 +130,7 @@ sweet:
   brand: Redmi
   codename: sweet
   supported_versions:
-    - version_code: "1"
+    - version_code: "2.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg
 whyred:
@@ -139,7 +139,7 @@ whyred:
   brand: Xiaomi
   codename: whyred
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-5-pro-1.jpg
 willow:
@@ -157,7 +157,7 @@ ysl:
   brand: Xiaomi
   codename: ysl
   supported_versions:
-    - version_code: "1"
+    - version_code: "1.0"
       stable: true
   img: https://i.imgur.com/E85Q8AD.png
 X00P:
