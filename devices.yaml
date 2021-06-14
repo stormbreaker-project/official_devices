@@ -59,7 +59,7 @@ ginkgo:
   codename: ginkgo
   supported_versions:
     - version_code: "0.1"
-      stable: true
+      stable: false
   img: https://i.imgur.com/2gtxk3X.jpg
 lancelot:
   maintainer: sparxfusion
@@ -149,7 +149,7 @@ willow:
   codename: willow
   supported_versions:
     - version_code: "0.1"
-      stable: true
+      stable: false
   img: https://i.imgur.com/2gtxk3X.jpg
 ysl:
   maintainer: ItsVixano
@@ -166,7 +166,7 @@ X00P:
   brand: Asus
   codename: X00P
   supported_versions:
-    - version_code: "0.1"
+    - version_code: "1.1"
       stable: true
   img: https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png
 X01AD:
@@ -175,6 +175,6 @@ X01AD:
   brand: Asus
   codename: X01AD
   supported_versions:
-    - version_code: "0.1"
-      stable: true
+    - version_code: "0.2"
+      stable: false
   img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
