@@ -1,12 +1,3 @@
-billie:
-  maintainer: Billaids
-  name: Nord N10 5G
-  brand: OnePlus
-  codename: billie
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://i.imgur.com/u1E9AEK.png
 avicii:
   maintainer: KakatkarAkshay
   name: Nord
@@ -16,51 +7,60 @@ avicii:
     - version_code: "1"
       stable: true
   img: https://i.imgur.com/K3bmolu.jpg
-X00P:
-  maintainer: danascape
-  name: Max M1
-  brand: Asus
-  codename: X00P
+billie:
+  maintainer: Billaids
+  name: Nord N10 5G
+  brand: OnePlus
+  codename: billie
   supported_versions:
     - version_code: "1"
       stable: true
-  img: https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png
-X01AD:
-  maintainer: danascape
-  name: Max M2
-  brand: Asus
-  codename: X01AD
+  img: https://i.imgur.com/u1E9AEK.png
+cheeseburger:
+  maintainer: deezznutzs
+  name: OnePlus 5
+  brand: OnePlus
+  codename: cheeseburger
   supported_versions:
     - version_code: "1"
       stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
-ysl:
-  maintainer: ItsVixano
-  name: Redmi S2/Y2
-  brand: Xiaomi
-  codename: ysl
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://i.imgur.com/E85Q8AD.png
-whyred:
-  maintainer: Sreekanth
-  name: Redmi Note 5/Pro
-  brand: Xiaomi
-  codename: whyred
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-5-pro-1.jpg
-phoenix:
-  maintainer: Sreekanth
-  name: Poco X2/Redmi K30
+  img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg
+citrus:
+  maintainer: starlight5234
+  name: Poco M3
   brand: Poco
-  codename: phoenix
+  codename: citrus
   supported_versions:
     - version_code: "1"
       stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x2-1.jpg
+  img: https://i.imgur.com/DKCUqFP.jpg
+CPH1859:
+  maintainer: kardebayan
+  name: 1
+  brand: realme
+  codename: CPH1859
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/oppo/oppo-realme-1-1.jpg
+dumpling:
+  maintainer: deezznutzs
+  name: OnePlus 5T
+  brand: OnePlus
+  codename: dumpling
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5t-1.jpg
+lancelot:
+  maintainer: sparxfusion
+  name: Redmi 9 Prime
+  brand: Redmi
+  codename: lancelot
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://www.gizmochina.com/wp-content/uploads/2020/08/Xiaomi-Redmi-9-Prime-500x500.jpg
 lavender:
   maintainer: susandahal
   name: Redmi Note 7
@@ -88,61 +88,16 @@ lavender:
     - version_code: "1"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
-lancelot:
-  maintainer: sparxfusion
-  name: Redmi 9 Prime
-  brand: Redmi
-  codename: lancelot
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://www.gizmochina.com/wp-content/uploads/2020/08/Xiaomi-Redmi-9-Prime-500x500.jpg
-CPH1859:
-  maintainer: kardebayan
-  name: 1
-  brand: realme
-  codename: CPH1859
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/oppo/oppo-realme-1-1.jpg
-citrus:
-  maintainer: starlight5234
-  name: Poco M3
+phoenix:
+  maintainer: Sreekanth
+  name: Poco X2/Redmi K30
   brand: Poco
-  codename: citrus
+  codename: phoenix
   supported_versions:
     - version_code: "1"
       stable: true
-  img: https://i.imgur.com/DKCUqFP.jpg
-sweet:
-  maintainer: brucetech627
-  name: Redmi Note 10 Pro
-  brand: Redmi
-  codename: sweet
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg
-cheeseburger:
-  maintainer: deezznutzs
-  name: OnePlus 5
-  brand: OnePlus
-  codename: cheeseburger
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg
-dumpling:
-  maintainer: deezznutzs
-  name: OnePlus 5T
-  brand: OnePlus
-  codename: dumpling
-  supported_versions:
-    - version_code: "1"
-      stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5t-1.jpg
- r5x:
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x2-1.jpg
+r5x:
   maintainer: iamlordutkarsh
   name: Realme 5 Series
   brand: realme
@@ -160,3 +115,48 @@ surya:
     - version_code: "1"
       stable: true
   img: https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png
+sweet:
+  maintainer: brucetech627
+  name: Redmi Note 10 Pro
+  brand: Redmi
+  codename: sweet
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg
+whyred:
+  maintainer: Sreekanth
+  name: Redmi Note 5/Pro
+  brand: Xiaomi
+  codename: whyred
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-5-pro-1.jpg
+ysl:
+  maintainer: ItsVixano
+  name: Redmi S2/Y2
+  brand: Xiaomi
+  codename: ysl
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://i.imgur.com/E85Q8AD.png
+X00P:
+  maintainer: danascape
+  name: Max M1
+  brand: Asus
+  codename: X00P
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://www.asus.com/media/IN/products/Av2HDWl1WLs1j7bm/P_setting_xxx_0_90_end_300.png
+X01AD:
+  maintainer: danascape
+  name: Max M2
+  brand: Asus
+  codename: X01AD
+  supported_versions:
+    - version_code: "1"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
