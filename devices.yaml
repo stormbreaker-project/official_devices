@@ -97,6 +97,15 @@ lavender:
     - version_code: "9.7"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
+lime:
+  maintainer: starlight5234
+  name: Redmi 9T
+  brand: Xiaomi
+  codename: lime
+  supported_versions:
+    - version_code: "2.0"
+      stable: true
+  img: https://i.imgur.com/DKCUqFP.jpg
 phoenix:
   maintainer: Sreekanth
   name: Poco X2/Redmi K30
