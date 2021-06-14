@@ -123,7 +123,7 @@ picasso:
   supported_versions:
     - version_code: "1.0"
       stable: true
-  img: https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png
+  img: https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575882160.38569692.jpg
 r5x:
   maintainer: iamlordutkarsh
   name: Realme 5 Series
