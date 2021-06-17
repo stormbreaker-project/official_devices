@@ -58,7 +58,7 @@ ginkgo:
   brand: Xiaomi
   codename: ginkgo
   supported_versions:
-    - version_code: "0.1"
+    - version_code: "0.2"
       stable: false
   img: https://i.imgur.com/2gtxk3X.jpg
 lancelot:
