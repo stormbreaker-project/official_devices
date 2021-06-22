@@ -142,15 +142,6 @@ surya:
     - version_code: "4.0"
       stable: true
   img: https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png
-sweet:
-  maintainer: brucetech627
-  name: Redmi Note 10 Pro
-  brand: Redmi
-  codename: sweet
-  supported_versions:
-    - version_code: "2.0"
-      stable: true
-  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note10-pro-1.jpg
 whyred:
   maintainer: Sreekanth
   name: Redmi Note 5/Pro
