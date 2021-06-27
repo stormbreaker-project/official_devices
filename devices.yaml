@@ -115,15 +115,6 @@ phoenix:
     - version_code: "1.0"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x2-1.jpg
-picasso:
-  maintainer: Forenche
-  name: Redmi K30 5G
-  brand: Xiaomi
-  codename: picasso
-  supported_versions:
-    - version_code: "1.0"
-      stable: true
-  img: https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575882160.38569692.jpg
 r5x:
   maintainer: iamlordutkarsh
   name: Realme 5 Series
