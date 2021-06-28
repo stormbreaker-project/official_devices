@@ -23,7 +23,7 @@ cheeseburger:
   codename: cheeseburger
   supported_versions:
     - version_code: "1.0"
-      stable: false
+      stable: true
   img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5-midnight-black-1.jpg
 citrus:
   maintainer: starlight5234
@@ -50,7 +50,7 @@ dumpling:
   codename: dumpling
   supported_versions:
     - version_code: "1.0"
-      stable: false
+      stable: true
   img: https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-5t-1.jpg
 ginkgo:
   maintainer: danascape
