@@ -202,6 +202,6 @@ X01AD:
   brand: Asus
   codename: X01AD
   supported_versions:
-    - version_code: "0.2"
+    - version_code: "0.3"
       stable: false
   img: https://fdn2.gsmarena.com/vv/pics/asus/asus-zenfone-max-m2-zb633kl-1.jpg
