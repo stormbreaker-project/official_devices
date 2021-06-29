@@ -166,7 +166,7 @@ whyred:
   brand: Xiaomi
   codename: whyred
   supported_versions:
-    - version_code: "1.0"
+    - version_code: "6.9"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-5-pro-1.jpg
 willow:
@@ -175,7 +175,7 @@ willow:
   brand: Xiaomi
   codename: willow
   supported_versions:
-    - version_code: "0.1"
+    - version_code: "0.3"
       stable: false
   img: https://i.imgur.com/2gtxk3X.jpg
 ysl:
