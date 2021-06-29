@@ -97,6 +97,33 @@ lavender:
     - version_code: "9.7"
       stable: true
   img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
+lavender-4.19:
+  maintainer: susandahal
+  name: Redmi Note 7
+  brand: Redmi
+  codename: lavender
+  supported_versions:
+    - version_code: "9.7"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
+lavender-4.19:
+  maintainer: PredatorX91
+  name: Redmi Note 7
+  brand: Redmi
+  codename: lavender
+  supported_versions:
+    - version_code: "9.7"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
+lavender-4.19:
+  maintainer: z4nyx
+  name: Redmi Note 7
+  brand: Redmi
+  codename: lavender
+  supported_versions:
+    - version_code: "9.7"
+      stable: true
+  img: https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-7-1.jpg
 lime:
   maintainer: starlight5234
   name: Redmi 9T
