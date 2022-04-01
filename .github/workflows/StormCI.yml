@@ -1,0 +1,17 @@
+name: StormCI
+
+on:
+  push:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Check Repositories
+        run: |
+          echo "Repositories Checked."
