@@ -9,14 +9,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Check Repositories
+
     steps:
       - uses: actions/checkout@v3
-
-      - name: Check Repositories
-        with:
-          credentials: ${{ secrets.ACCESS_TOKEN }}
-          
+      - shell: bash
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
-          echo "Repositories Checked."
-          git clone https://danascape:${ACCESS_TOKEN}@github.com/danascape/stormbreaker-infrastructure.git
+          echo "Repositories Checked." && \
+          git clone https://danascape:${ACCESS_TOKEN}@github.com/danascape/stormbreaker-infrastructure.git && \
           bash stormbreaker-infrastructure/check-repositories.sh
