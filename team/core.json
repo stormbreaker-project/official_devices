@@ -2,12 +2,17 @@
 	"members": [{
 			"name": "Saalim Quadri",
 			"image": "",
-			"title": "Founder"
+			"title": "Co-Founder"
 		},
 		{
 			"name": "Sreekanth",
 			"image": "",
-			"title": "Founder"
+			"title": "Co-Founder"
+		},
+		{
+			"name": "Giovanni",
+			"image": "",
+			"title": "Core"
 		}
 	]
 }
