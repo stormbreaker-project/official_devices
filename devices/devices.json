@@ -2,12 +2,14 @@
 	"devices": [{
 			"name": "Oneplus Nord N10",
 			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/billie.png",
-			"maintainer": "Saalim"
+			"maintainer": "Saalim",
+			"link": ""
 		},
 		{
 			"name": "Nothing Phone (1)",
 			"image": "",
-			"maintainer": "Saalim"
+			"maintainer": "Saalim",
+			"link": ""
 		}
 	]
 }
