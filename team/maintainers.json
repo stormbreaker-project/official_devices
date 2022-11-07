@@ -1,11 +1,11 @@
 {
   "members": [
     {
-      "name": "Rahul",
-      "image": "",
+      "name": "Debayan Kar",
+      "image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/team/debayan.png",
       "title": "Maintainer",
-      "github": "",
-      "linkedin": ""
+      "github": "https://github.com/kardebayan",
+      "linkedin": "https://www.linkedin.com/in/debayan-kar-0961b623b"
     }
   ]
 }
