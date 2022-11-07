@@ -1,8 +1,11 @@
 {
-	"members": [{
-			"name": "Saalim Quadri",
-			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/team/saalim.png",
-			"title": "Co-Founder"
-		}
-	]
+  "members": [
+    {
+      "name": "Saalim Quadri",
+      "image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/team/saalim.png",
+      "title": "Co-Founder",
+      "github": "https://github.com/danascape",
+      "linkedin": "https://www.linkedin.com/in/saalim-quadri"
+    }
+  ]
 }
