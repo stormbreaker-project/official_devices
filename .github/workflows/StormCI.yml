@@ -1,22 +1,14 @@
 name: StormCI
 
-on:
-  push:
-    branches: [ master ]
-
-  workflow_dispatch:
+on: [push, pull_request]
 
 jobs:
-  build:
+  jsonLint:
+    name: JsonLint
     runs-on: ubuntu-latest
-    name: Check Repositories
-
     steps:
-      - uses: actions/checkout@v3
-      - shell: bash
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - uses: actions/checkout@v1
+      - name: Run jsonlint.
         run: |
-          echo "Repositories Checked." && \
-          git clone https://danascape:${ACCESS_TOKEN}@github.com/danascape/stormbreaker-infrastructure.git && \
-          bash stormbreaker-infrastructure/check-repositories.sh
+           sudo apt install python3-demjson && \
+          while read -r script; do jsonlint $script; done < files
