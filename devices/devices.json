@@ -1,7 +1,7 @@
 {
 	"devices": [{
 			"name": "Oneplus Nord N10",
-			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/billie.png",
+			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/billie.png",
 			"maintainer": "Saalim",
 			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/ginkgo/StormBreaker-ginkgo-beta-20210903-1218-0.5.zip/download"
 		}
