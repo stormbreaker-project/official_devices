@@ -1,5 +1,7 @@
 {
-	"devices": [{
+	"devices": 
+	[
+		{
 			"name": "Oneplus Nord N10",
 			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/billie.png",
 			"maintainer": "Saalim",
