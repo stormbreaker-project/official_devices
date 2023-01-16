@@ -6,6 +6,18 @@
 			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/billie.png",
 			"maintainer": "Saalim",
 			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/ginkgo/StormBreaker-ginkgo-beta-20210903-1218-0.5.zip/download"
+		},
+		{
+			"name": "Redmi Note 8",
+			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/ginkgo.png",
+			"maintainer": "Saalim",
+			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/ginkgo/StormBreaker-ginkgo-beta-20210903-1218-0.5.zip/download"
+		},
+		{
+			"name": "Asus Max M2",
+			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/X01AD.png",
+			"maintainer": "Saalim",
+			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/X01A/StormBreaker-4.9-X01AD-20210805-1247-0.4.zip/download"
 		}
 	]
 }
