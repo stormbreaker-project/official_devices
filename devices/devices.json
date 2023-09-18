@@ -2,12 +2,20 @@
 	"devices": 
 	[
 		{
+			"name": "Nothing Phone (1)",
+			"date": "Unreleased",
+			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/spacewar.png",
+			"maintainer": "Saalim",
+			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/",
+			"version": "Beta"
+		},
+		{
 			"name": "Oneplus Nord N10",
-			"date": "2021-09-07",
+			"date": "Unreleased",
 			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/billie.png",
 			"maintainer": "Saalim",
 			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/ginkgo/StormBreaker-ginkgo-beta-20210903-1218-0.5.zip/download",
-			"version": "v0.1"
+			"version": "Beta"
 		},
 		{
 			"name": "Redmi Note 8",
@@ -24,6 +32,14 @@
 			"maintainer": "Saalim",
 			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/X01A/StormBreaker-4.9-X01AD-20210805-1247-0.4.zip/download",
 			"version": "v0.1"
+		},
+		{
+			"name": "Asus Max M1",
+			"date": "Unreleased",
+			"image": "https://raw.githubusercontent.com/stormbreaker-project/official_devices/master/assets/devices/X00P.png",
+			"maintainer": "Saalim",
+			"link": "https://sourceforge.net/projects/stormbreakerdevices/files/X00P/Stormbreaker-X00P-09052021-1.1.zip/download",
+			"version": "v1.1"
 		}
 	]
 }
